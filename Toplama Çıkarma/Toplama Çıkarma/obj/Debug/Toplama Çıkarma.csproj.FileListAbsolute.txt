@@ -1,0 +1,11 @@
+D:\Visual\Toplama Çıkarma\Toplama Çıkarma\bin\Debug\Toplama Çıkarma.exe.config
+D:\Visual\Toplama Çıkarma\Toplama Çıkarma\bin\Debug\Toplama Çıkarma.exe
+D:\Visual\Toplama Çıkarma\Toplama Çıkarma\bin\Debug\Toplama Çıkarma.pdb
+D:\Visual\Toplama Çıkarma\Toplama Çıkarma\obj\Debug\Toplama Çıkarma.csproj.AssemblyReference.cache
+D:\Visual\Toplama Çıkarma\Toplama Çıkarma\obj\Debug\Toplama Çıkarma.csproj.SuggestedBindingRedirects.cache
+D:\Visual\Toplama Çıkarma\Toplama Çıkarma\obj\Debug\Toplama_Çıkarma.Form1.resources
+D:\Visual\Toplama Çıkarma\Toplama Çıkarma\obj\Debug\Toplama_Çıkarma.Properties.Resources.resources
+D:\Visual\Toplama Çıkarma\Toplama Çıkarma\obj\Debug\Toplama Çıkarma.csproj.GenerateResource.cache
+D:\Visual\Toplama Çıkarma\Toplama Çıkarma\obj\Debug\Toplama Çıkarma.csproj.CoreCompileInputs.cache
+D:\Visual\Toplama Çıkarma\Toplama Çıkarma\obj\Debug\Toplama Çıkarma.exe
+D:\Visual\Toplama Çıkarma\Toplama Çıkarma\obj\Debug\Toplama Çıkarma.pdb
